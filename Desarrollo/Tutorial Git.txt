@@ -1,0 +1,21 @@
+
+--------- PARA CONFIGURAR USUARIO Y CONTRASEÑA ---------
+git config --global user.name 'tu nombre'
+git config --global user-email mi_correo@correo.com
+git config --list
+
+--------------------------------------------------------
+
+--------------- CLONAR UN REPOSITORIO ------------------
+git clone https://github.com/ivan72391/il_code.git
+--------------------------------------------------------
+
+----------- PARA ACTUALIAZAR REPOSITORIO ---------------
+git init 
+git status
+git add .
+git status
+git commit -m 'Comentario...'
+git push -u origin master
+--------------------------------------------------------
+
