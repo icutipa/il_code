@@ -10,3 +10,4 @@ Please update your installation to the latest CodeIgniter 3.x version available
 
 jajaja asi no?
 xd2
+ahora si funciona en win
