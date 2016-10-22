@@ -1,7 +1,7 @@
 
 --------- PARA CONFIGURAR USUARIO Y CONTRASEÑA ---------
 git config --global user.name 'tu nombre'
-git config --global user-email mi_correo@correo.com
+git config --global user.email mi_correo@correo.com
 git config --list
 
 --------------------------------------------------------
@@ -18,4 +18,4 @@ git status
 git commit -m 'Comentario...'
 git push -u origin master
 --------------------------------------------------------
-
+xxdxdxdxdxd
